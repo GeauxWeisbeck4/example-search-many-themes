@@ -33,7 +33,7 @@
         "tailwindcss": "^3.0.23"
     },
     "devDependencies": {
-        "@netlify/plugin-nextjs": "^4.2.7",
+        "@netlify/plugin-nextjs": "^4.23.1",
         "@stackbit/cli": "^0.1.27",
         "@tailwindcss/line-clamp": "^0.3.1",
         "@types/react": "^17.0.39",
